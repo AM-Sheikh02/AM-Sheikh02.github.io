@@ -19,7 +19,7 @@ Aiming to work on large datasets, I am highly motivated to contribute to the com
 
 ## My City Map
 
-<embed type="text/html" src="/IMG/cu_campus_map.html" height="650" width="850">
+<embed type="text/html" src="image/Gcu_map.html" height="650" width="850">
 
 
 
